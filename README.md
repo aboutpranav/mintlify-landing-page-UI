@@ -168,6 +168,12 @@ Five company logos in a single row:
 - "© 2026 Mintlify, Inc."
 - Centered text with muted styling
 
+## 📸 Screenshot
+
+### Full Page View
+
+![Full Minflify Landing Page](screenshots/full-page.png)
+
 ## 🎨 Fonts and Colors Used
 
 ### Fonts
